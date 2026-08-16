@@ -4,7 +4,7 @@ A production-inspired **Distributed Job Queue** built from scratch using **Node.
 
 The goal of this project is **not to replace BullMQ or RabbitMQ**, but to understand how distributed job processing systems work internally by implementing the core building blocks ourselves.
 
-* vercel : https://vercel.com/prasmit-rajs-projects/distributed-job-queue
+* vercel : https://distributed-job-queue-sepia.vercel.app/
 
 ---
 
